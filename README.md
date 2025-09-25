@@ -7,7 +7,7 @@ This project focuses on the automatic classification of arterial plaque componen
 ## Dataset & Preprocessing
 - Input data: labeled plaque component samples (images).
 - The dataset is split into training and validation sets.
-- Preprocessing includes normalization and transformations to ensure stable training.
+- Preprocessing includes normalization to ensure stable training.
 
 ## Model Architecture
 - Implemented a **Deep Neural Network (DNN)** using TensorFlow/Keras.
